@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joeldmyers/node-review/issues"
   },
-  "homepage": "https://github.com/joeldmyers/node-review#readme"
+  "homepage": "https://github.com/joeldmyers/node-review#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
 }
